@@ -40,7 +40,7 @@ footer {
 
 }
 
-@media screen and (max-width:360px){
+@media screen and (max-width:391px){
   h1 {
     font-size: 0.5rem;
     color: blue;
